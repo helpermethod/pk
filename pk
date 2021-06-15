@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+pk() {
+  lsof -i :"$1" -s TCP:LISTEN -t | xargs kill
+}
