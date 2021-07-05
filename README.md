@@ -10,6 +10,6 @@ Make sure to add `$HOME/bin` to your `PATH`.
 
 ## Usage
 
-To kill (interrupt) the application listening on port 8080, type
+To kill/interrupt the application listening on port `8080`, type
 
     pk 8080
