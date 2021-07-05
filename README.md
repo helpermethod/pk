@@ -1,6 +1,6 @@
 # pk
 
-`pk` is a shell script which allows you to kill a process by TCP listen port number.
+`pk` (short for: `process kill`) is a shell script which allows you to kill a process by TCP listen port number.
 
 ## Installation
 
@@ -10,6 +10,6 @@ Make sure to add `$HOME/bin` to your `PATH`.
 
 ## Usage
 
-To `kill` (interrupt) the process listening on port `8080` type
+To `kill` (interrupt) the `process` listening on port `8080` type
 
     pk 8080
