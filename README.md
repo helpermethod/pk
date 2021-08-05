@@ -1,5 +1,7 @@
 # pk
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/helpermethod/pk/main/LICENSE)
+
 `pk` (short for: `process kill`) is a shell script which allows you to kill a process by TCP listen port number.
 
 ## Installation
